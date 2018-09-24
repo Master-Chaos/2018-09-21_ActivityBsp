@@ -3,4 +3,4 @@ This App is a sample code and shows the contacts of the telefon book by pressing
 
 The App is tested with the following virtual devices:
 
-Nexus 5 API 24 (Android 7.0)
+* Nexus 5 API 24 (Android 7.0)
